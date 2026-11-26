@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "club.someoneice.vandalism.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "MixinCraftingTableMenu"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.4"
+}
